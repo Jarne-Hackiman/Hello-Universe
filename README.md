@@ -1,7 +1,7 @@
 # Hello-Universe
 First repository
 
-
+Das ist meine Zeile (Stephan)
 Tach, this is my first time using GitHub. My name is Jarne.
 
 
