@@ -12,3 +12,5 @@ Wenn alles gut läuft, kann man den Branch in den Hauptzweig reinmergen, um die 
 
 ProTip
 By incorporating certain keywords into the text of your Pull Request, you can associate issues with code. When your Pull Request is merged, the related issues are also closed. For example, entering the phrase Closes #32 would close issue number 32 in the repository.
+
+How many commits should you execute before Pull Request? 
